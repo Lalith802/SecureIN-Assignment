@@ -130,10 +130,3 @@ The API includes comprehensive error handling for:
 - Prepared SQL statements to prevent SQL injection
 - Error message sanitization
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Made with ❤️ by Lalith Krishna
