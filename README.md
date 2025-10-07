@@ -110,7 +110,7 @@ python Api_Integration.py
 
 ## 📝 Data Import
 
-The project includes a Jupyter notebook (`main.ipynb`) for importing recipe data from JSON to MySQL. The notebook handles:
+The project includes a Jupyter notebook (`DataBase_Integration.ipynb`) for importing recipe data from JSON to MySQL. The notebook handles:
 - Data cleaning
 - NULL value handling
 - Type conversions
